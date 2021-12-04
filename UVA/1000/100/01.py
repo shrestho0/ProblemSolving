@@ -12,6 +12,6 @@ while True:
         n = 3*n +1
     else:
         n //= 2
-    
 
-print(result.__len__())
+print(result)
+
