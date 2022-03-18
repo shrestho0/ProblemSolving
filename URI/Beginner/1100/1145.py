@@ -25,3 +25,4 @@ while i <= k:
     else:
         print(i, end=" ")
     i+=1
+    
