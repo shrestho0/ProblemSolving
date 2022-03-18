@@ -10,3 +10,4 @@ while True:
         print(i, end=" ")
     if i == n: break
     i+= 1
+    
