@@ -26,3 +26,5 @@ while i <= k:
         print(i, end=" ")
     i+=1
     
+
+    
