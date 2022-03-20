@@ -18,3 +18,4 @@ print(f"Alcool: {fuels[0]}")
 print(f"Gasolina: {fuels[1]}")
 print(f"Diesel: {fuels[2]}")
 
+
