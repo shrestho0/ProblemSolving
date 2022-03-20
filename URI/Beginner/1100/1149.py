@@ -19,3 +19,4 @@ print(Summing_Consecutive_Integers(list(map(int, input().split()))))
 3 -1 0 -2 2
 
 '''
+
