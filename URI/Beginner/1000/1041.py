@@ -9,7 +9,6 @@ if get_x == 0 and get_y == 0:
     print("Origem")
 elif get_y == 0 and get_x != 0:
     print("Eixo X")
-
 elif get_x == 0 and get_y != 0:
     print("Eixo Y")
 elif get_x > 0 and get_y > 0:
