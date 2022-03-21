@@ -31,3 +31,4 @@ new_saly = sal + (sal * new_perc/100)
 print(f"Novo salario: {new_saly:.2f}")
 print(f"Reajuste ganho: {new_earn:.2f}")
 print(f"Em percentual: {new_perc} %")
+
