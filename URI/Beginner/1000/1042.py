@@ -8,4 +8,5 @@ for el in get_sort:
 print()
 for el in get_nums:
     print(el)
+
     
