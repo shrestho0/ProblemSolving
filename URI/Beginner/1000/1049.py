@@ -11,7 +11,6 @@ bullshit_animals  = {
                 'herbivoro' : 'vaca'
         }
     },
-
     'invertebrado' : {
         'inseto' : {
             'hematofago': 'pulga',
