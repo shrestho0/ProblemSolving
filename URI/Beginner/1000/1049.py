@@ -12,8 +12,6 @@ bullshit_animals  = {
         }
     },
 
-
-
     'invertebrado' : {
         'inseto' : {
             'hematofago': 'pulga',
