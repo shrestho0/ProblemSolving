@@ -1,5 +1,5 @@
 
-
+ 
 n = input()
 
 items = set(map(int, input().split()))
