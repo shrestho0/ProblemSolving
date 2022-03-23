@@ -20,4 +20,4 @@ for cmd in range(int(input())):
     exec(command)
     
     
-print(sum(elem))
+print(sum(elem)) 
