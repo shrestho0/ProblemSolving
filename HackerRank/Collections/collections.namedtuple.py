@@ -34,6 +34,8 @@ def typed(string):
         return int(string)
     return string
 
+
+
 n = int(input())
 Students = namedtuple("Student", ' '.join(input().split()))
 tups_data = {}
