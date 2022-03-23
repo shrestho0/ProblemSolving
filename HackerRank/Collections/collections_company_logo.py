@@ -4,7 +4,7 @@
 #     chars = []
 #     for char in string: chars.append(char) if char not in chars else None
 #     chars = sorted(chars)
-#     charx = []
+#     charx = [] 
 #     count = 0
 #     for idx in range(len(chars)):
 #         now_count = string.count(chars[idx])
