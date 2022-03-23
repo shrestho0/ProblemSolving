@@ -27,7 +27,7 @@ _ = input()
 TO_CHECK = input().split()
 A = set(input().split())
 B = set(input().split())
-
+ 
 HAPPYNESS = 0
 for _ in TO_CHECK:
     if _ in A: HAPPYNESS += 1
