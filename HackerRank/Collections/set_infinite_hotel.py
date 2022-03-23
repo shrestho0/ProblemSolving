@@ -10,4 +10,4 @@ print(*set(G[0::2]) ^ set(G[1::2]))
 
 
 
-# name, 
+# name,  
