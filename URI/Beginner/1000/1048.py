@@ -19,6 +19,7 @@ elif sal >= 400.01 and sal <= 800.00:
     new_perc = 12
 elif sal >= 800.01 and sal <= 1200.00:
     new_perc = 10
+
 elif sal >= 1200.01 and sal <= 2000.00:
     new_perc = 7
 elif sal > 200:
