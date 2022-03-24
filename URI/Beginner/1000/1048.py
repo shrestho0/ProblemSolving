@@ -8,7 +8,6 @@
 # 1200.01 - 2000.00 7%
 # Above 2000.00     4%
 
-
 sal = float(input())
 
 # new_saly, new_earn, new_perc = 0, 0, 0, 0
@@ -24,7 +23,6 @@ elif sal >= 1200.01 and sal <= 2000.00:
     new_perc = 7
 elif sal > 200:
     new_perc = 4
-
 
 
 new_earn = sal * new_perc/100
