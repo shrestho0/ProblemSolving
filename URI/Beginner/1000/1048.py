@@ -35,3 +35,4 @@ print(f"Reajuste ganho: {new_earn:.2f}")
 print(f"Em percentual: {new_perc} %")
 
 
+
