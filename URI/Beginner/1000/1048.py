@@ -26,6 +26,7 @@ elif sal > 200:
     new_perc = 4
 
 
+
 new_earn = sal * new_perc/100
 new_saly = sal + (sal * new_perc/100)
 
