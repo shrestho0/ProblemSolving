@@ -1,7 +1,6 @@
 # Worked after 2 attempts
 # One was percentage had floating value
 # Presentation Error.
-
 # And, Alhamdulillah did it successfully
 # 0 - 400.00        15%
 # 400.01 - 800.00   12%
