@@ -9,7 +9,6 @@
 # Above 2000.00     4%
 
 
-
 sal = float(input())
 
 # new_saly, new_earn, new_perc = 0, 0, 0, 0
