@@ -1,6 +1,5 @@
 
 
-
 def fair_distribution(X,Y):
     return X - (Y % X)
 
