@@ -6,3 +6,4 @@ def fair_distribution(X,Y):
 
 
 print(fair_distribution(*map(int, input().split())))
+
