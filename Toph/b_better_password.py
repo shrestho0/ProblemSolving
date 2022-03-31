@@ -1,5 +1,6 @@
 
 
+
 def better_pass(string: str):
     first_letter = string[0].upper()
     string = string[1:]
