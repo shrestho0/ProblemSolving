@@ -11,3 +11,4 @@ def better_pass(string: str):
     return first_letter + string
 
 print(better_pass(input()))
+
