@@ -8,3 +8,5 @@ def ascii_progress_bar(per: float):
 print(ascii_progress_bar(float(input())))
 
 
+
+
