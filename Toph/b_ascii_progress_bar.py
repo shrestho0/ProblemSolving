@@ -1,7 +1,6 @@
 
 
 
-
 import math
 
 def ascii_progress_bar(per: float):
