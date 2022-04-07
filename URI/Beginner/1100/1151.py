@@ -9,7 +9,6 @@ def till_nth_fib(n):
     listo = []
     a_0 = 0
     a_1 = 1
-    
     for i in range(n):
         
         listo.append(a_0)
