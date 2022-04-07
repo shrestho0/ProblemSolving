@@ -5,7 +5,6 @@
 
 #     return till_nth_fib(n-1) + till_nth_fib(n-2)
 
-
 def till_nth_fib(n):
     listo = []
     a_0 = 0
