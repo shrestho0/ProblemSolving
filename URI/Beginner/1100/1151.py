@@ -25,5 +25,4 @@ print()
 
 
 
-
 # print(*[till_nth_fib(x) for x in range(int(input()))])
