@@ -12,7 +12,6 @@ def till_nth_fib(n):
     for i in range(n):
         
         listo.append(a_0)
-        
         temp =  a_0 + a_1
         a_0 = a_1
         a_1 = temp
