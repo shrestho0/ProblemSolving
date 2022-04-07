@@ -1,7 +1,8 @@
+
+
 # def till_nth_fib(n):
 #     if n == 0: return 0
 #     if n == 1: return 1
-
 #     return till_nth_fib(n-1) + till_nth_fib(n-2)
 
 def till_nth_fib(n):
@@ -21,5 +22,8 @@ def till_nth_fib(n):
 
 print(*till_nth_fib(int(input())))
 print()
+
+
+
 
 # print(*[till_nth_fib(x) for x in range(int(input()))])
