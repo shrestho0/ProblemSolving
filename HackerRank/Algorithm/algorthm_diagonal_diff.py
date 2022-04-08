@@ -28,6 +28,7 @@ for i in range(int(input())):
 # print(arr)
 print('========')
 distance = 0
+
 for i in range(len(arr)):
     distance += arr[i][i]
     distance -= arr[i][-i-1]
