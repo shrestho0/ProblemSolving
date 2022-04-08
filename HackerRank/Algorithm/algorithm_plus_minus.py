@@ -3,6 +3,7 @@
 
 n = input()
 
+
 num = map(int, input().split())
 
 pos = len([x for x in num if x > 0])
