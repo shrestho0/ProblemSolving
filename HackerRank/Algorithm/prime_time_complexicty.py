@@ -3,6 +3,7 @@
 
 # import sympy
 
+
 # print("Prime") if sympy.isprime(10) else print("Not prime")
 
 # # This performed great but time limit exeeced
