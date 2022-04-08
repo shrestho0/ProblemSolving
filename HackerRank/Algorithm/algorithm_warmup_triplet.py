@@ -36,3 +36,5 @@ if __name__ == '__main__':
 
     result = compareTriplets(a, b)
     print(result)
+
+    
