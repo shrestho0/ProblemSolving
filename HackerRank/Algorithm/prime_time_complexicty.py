@@ -5,7 +5,6 @@
 
 # print("Prime") if sympy.isprime(10) else print("Not prime")
 
-
 # # This performed great but time limit exeeced
 # def isprime(n):
 #     if n < 2: return False
