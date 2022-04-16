@@ -5,6 +5,7 @@ def check_anagram(w1, w2):
     if len(w1) == len(w2):
         for x in w1:
             if x in w2: anagram *= True
+                
             else:
                 anagram *= False
     else:
