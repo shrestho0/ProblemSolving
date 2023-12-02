@@ -57,3 +57,41 @@
 # #     print(val, sum(val))
 
 
+num_words = {
+    "one": 1,
+    "two": 2,
+    "three": 3,
+    "four": 4,
+    "five": 5,
+    "six": 6,
+    "seven": 7,
+    "eight": 8,
+    "nine": 9,
+}
+
+
+def get_number(dstr):
+    dlen = len(dstr)
+    d_only_str = ""
+    for i, char in enumerate(dstr):
+        if char.isdigit():
+            d_only_str += char
+            continue
+        for j in range(2, 5):
+            if i + j < dlen:
+                word = dstr[i : i + j + 1]
+                if word in num_words:
+                    d_only_str += str(num_words[word])
+                    continue
+
+    if (dslen := len(d_only_str)) == 1:
+        return int(f"{d_only_str[0]*2}")
+
+    return int(f"{d_only_str[0]}{d_only_str[dslen - 1]}")
+
+
+with open("input4.txt", "r") as f:
+    sum_dstr = 0
+    for line in f.readlines():
+        sum_dstr += get_number(line.strip())
+    print(sum_dstr)
